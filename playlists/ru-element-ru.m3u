@@ -1,0 +1,574 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://mobi.oui9.com/iphone/ch_images/ar/ja.png",AL JADEED
+http://livestreaming.itworkscdn.net:1935/aljadeedlive/aljadeed_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/murr_tv_al_lubnaniya.png",MTV LIBANO HD
+http://livestreaming1.itworkscdn.net:1935/mtvlive/murrtelevision_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/oo/otv_lb.png" ,OTV HD
+http://livestreaming.itworkscdn.net:1935/otvmobile/otvlive_1/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/future_tv_international.png",FUTURE 1HD
+http://livestreaming.itworkscdn.net/ftvlive/ftvlive/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ll/lbc_europe.png",LBC HD
+rtmp://www.teledunet.com:1935/live?idu=alshamary_71669982600/lbc
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ll/ldc_lb.png",LDC HD 
+rtmp://www.teledunet.com:1935/live?idu=alshamary_71669982600/ldc
+
+#EXTINF:-1 tvg-logo="http://mobi.oui9.com/iphone/ch_images/ar/Woui9dubaidrama.png",DRAMA 
+http://dmi.mangomolo.com:1935/dubaidrama/smil:dubaidrama.stream.smil/bonradio.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/nn/nbn_lb.png",NBN LIBANO HD
+http://livei.nbn.com.lb:1935/nbn/mpegts.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_mayadeen_tv.png",ALMAYADEN HD
+http://livestreaming3.itworkscdn.net:1935/mayadeenlive/mayadsat/playlist.m3u8 
+
+
+
+
+#EXTINF:-1 tvg-logo="http://mobi.oui9.com/ipad/images/90.png",SYRIA 
+http://82.137.248.16:1935/Sat/SatLive1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://mobi.oui9.com/ipad/images/91.png",SYRIA SAMA 
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://mobi.oui9.com/iphone/ch_images/ar/c54d.png",SYRIA DRAMA
+http://82.137.248.16:1935/Drama/DramaLive3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_manar_tv.png" tvg-name=",ALMANAR 
+http://38.96.148.199:1935/liveedge1/livestream_360p/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_manar_tv.png" tvg-name=",ALMANAR HD
+http://38.96.148.199:1935/liveedge1/livestream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://mobi.oui9.com/iphone/ch_images/ar/kwtr.png",AL KAUTAR
+http://live.pgmedia.ir:1935/live-35895787/alkosar-512.sdp/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rt_arabic.png",RUSIA ARABIC
+http://rt.ashttp6.visionip.tv/live/Rusiya_Al_Yaum-SDh/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.nanocdn.net/uploads/lives/channel_509604c68684b.png",ALFORAT
+http://alforatmob.nanocdn.com:1935/live/alforat256/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_alam_news_channel_ir.png",ALALAM HD
+rtmp://fml.BE1E.edgecastcdn.net:1935/20BE1E/HLS/AlalamHLS 
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_channel_qa_hd.png",ALJAZEERA HD
+rtmp://aljazeeraflashlivefs.fplive.net:443/aljazeeraflashlive-live?videoId=1961110288001&lineUpId=&pubId=665001584001&playerId=897709209001&affiliateId=/aljazeera_ara_high?videoId=1961110288001&lineUpId=&pubId=665001584001&playerId=897709209001&affiliateId=
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_channel_qa.png",ALJAZEERA MISR HD
+rtsp://aljamisr.lsops.net:1935/live/aljamisr_ar_485
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_mubasher.png",ALJAZEERA MUBA HD
+rtsp://hd1.lsops.net:1935/live/aljamuba_ar_485
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_channel_qa_hd.png",ALJAZEERA DOCUM HD
+http://aljazeera-ar-apple-live.adaptive.level3.net/apple/aljazeera/hq-ar/stb.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_arabiya.png",ALARABIYA HD
+http://livestream2.alarabiya.tv/files/mainarabia.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_arabiya_al_hadath.png",ALARABIYA HADAT HD
+http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
+
+#EXTINF:-1,SKY NEWS HD
+http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl.m3u8
+
+#EXTINF:-1 tvg-logo="http://mobi.oui9.com/iphone/ch_images/ar/bbcarabic.png",BBC ARABE HD
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ff/france24_arabic.png",FRANCA NEWS ARABCI
+rtsp://stream2.france24.yacast.net/france24_live/frda//f24_livefrda
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_ekhbariya.png",EKHBARIYA
+mmsh://38.96.148.75/Ekhbariya?MSWMExt=.asf
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_aan_tv.png",ALANN
+rtsp://livestreaming.itworkscdn.net/alaanlive/alaantv
+
+#EXTINF:-1 tvg-logo=http://www.lyngsat-logo.com/logo/tv/aa/al_ikhbaria_sy.png,SYRIA NEWS
+rtsp://82.137.248.16:1935/Snews/SnewsLive1 
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/sama_tv.png",SYRIA SAMA HD
+rtsp://sama-tv.net:1935/live/samatv 
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.png",SYRIA DRAMA HD
+rtsp://82.137.248.21:1935/Drama/DramaLive2
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_falastiniah_tv_ps.png",PALESTINA HD
+rtsp://46.43.64.166:1935/flv/flv
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ll/lua_lua_tv.png",LUALUA HD
+http://lualua_hls-lh.akamaihd.net/i/lualua_ar@103277/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_sharqya.jpg",ALSHARQIYA HD
+rtsp://ns8.indexforce.com:1935/home/mystream
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/al_jazeera_jeem_tv_plus.png",ALJAZEERA KID 
+rtsp://AgendaStreamerx1.qna.org.qa:1935/jsc/jsc 
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/baraem.png",BARAEM KID 
+rtsp://AgendaStreamerx1.qna.org.qa:1935/brm/brm 
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/toyor_al_janah.png",Toyor_Al_Janah
+rtmp://www.teledunet.com:1935/live?idu=alshamary_71669982600/toyor_al_janah
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/spacetoon_bh.png",SPACETOON_ARABIC
+rtmp://www.teledunet.com:1935/live?idu=alshamary_71669982600/spacetoon
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png",CARTOON NETWORK
+rtmp://www.teledunet.com:1935/live?idu=alshamary_71669982600/cartoon_network
+
+#EXTINF:-1,ALFORAT 
+rtsp://alforatlive.nanocdn.com:1935/live/
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s107179q.png",Almaaref 
+http://almaareftv.com:1935/live/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/assirat_tv.png",ASSIRAT
+rtmp://166.62.41.132/live/livestream 
+#EXTINF:0,Imam Hussein 2 TV
+rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203
+#EXTINF:-1,WISAL HD
+http://109.123.123.82:1935/wesal/wesal1/playlist.m3u8
+#EXTINF:-1,IMAM HUSSEIN TV 
+rtsp://ca.live.imamhussein.tv:1935/live/ih101
+#EXTINF:-1,IMAM HUSSEIN2 
+rtsp://ca.live.imamhussein.tv:1935/live/mp4:ih203
+#EXTINF:-1,SUNA 
+http://46.245.160.224/medine/medine/playlis.m3u8
+#EXTINF:-1,MEKEE 
+http://46.245.160.224/mekke/mekke/playlis.m3u8
+#EXTINF:-1,ROTANA CINEMA
+http://185.5.222.227:4242/bysid/5609 
+#EXTINF:-1,ROTANA CLIP
+http://185.5.222.227:4242/bysid/5602
+#EXTINF:-1,CBC DRAMA
+http://185.5.222.231:4242/bysid/5107
+#EXTINF:-1,ALHAYAT CINEMA
+http://185.5.222.231:4242/bysid/5106
+#EXTINF:-1,ALNHAR DRAMA
+rtmp://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_dramaprofile2.stream
+#EXTINF:-1,DRAMA
+rtmp://stream138.n-stream.tv:2095/AlNaharTVSChannel/nahar_tvprofile2.stream
+#EXTINF:0,MBC 1 
+rtmp://www.teledunet.com:1935/live?idu=alshamary_71669982600/mbc_1
+#EXTINF:0,MBC 2 
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
+#EXTINF:0,MBC 3 
+http://demo:1234@iptvmoroccopes.no-ip.org:8000/13.ch
+#EXTINF:0,MBC 4 
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+#EXTINF:0,MBC Action 
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mbc_ae_bollywood.png",MBC Bollywood 
+http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:0,MBC Max 
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+
+
+
+#EXTINF:1,OSN-YAHALA
+http://iptv15.zapto.org:8000/live/free4u/2015/1526.ts?cristor
+#EXTINF:1,OSN Movies 2
+http://iptv15.zapto.org:8000/live/free4u/2015/1527.ts?cristor 
+#EXTINF:1,OSN Movies 2
+http://iptv15.zapto.org:8000/live/free4u/2015/1528.ts?cristor
+#EXTINF:1,OSN Movies
+http://iptv15.zapto.org:8000/live/free4u/2015/1542.ts?cristor
+#EXTINF:1,OSN Movies Drama
+http://iptv15.zapto.org:8000/live/free4u/2015/1543.ts?cristor
+#EXTINF:1,OSN MOVIE PREMIER
+http://iptv15.zapto.org:8000/live/free4u/2015/1534.ts?cristor
+#EXTINF:1,OSN-First 
+http://iptv15.zapto.org:8000/live/free4u/2015/1536.ts?cristor
+
+
+#EXTINF:1,dubaitv
+rtmp://159.8.154.70/dubaitv//dubaitv
+#EXTINF:1,dubaizaman
+rtmp://dmi.mangomolo.com/dubaizaman/?v=3161088767/dubaizaman.stream
+#EXTINF:1,samadubai
+rtmp://15.8.154.70/samadubai//samadubai
+#EXTINF:1,dubaione
+rtmp://159.8.154.70/dubaione//dubaione
+#EXTINF:1,abudhabitv
+rtmp://162.212.176.120/abudhabitv//abudhabitv
+#EXTINF:-1,Dubai 
+rtmp://dmi.mangomolo.com/dubaitv/?v=1548648495/dubaitv
+#EXTINF:-1,Dubai_al_aoula
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/chunklist_b750000.m3u8
+#EXTINF:-1,Dubai drama 
+rtmp://dmi.mangomolo.com/dubaidrama/?v=1548648495/dubaidrama.stream
+#EXTINF:-1,Noor Dubai
+http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/chunklist_w932561967_b1200000.m3u8
+#EXTINF:-1,Dubai RACING 
+http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/chunklist_w1474619579_b1300000.m3u8
+#EXTINF:-1,Dubai Sport 3
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/chunklist_w1518227480_b1200000.m3u8
+
+
+
+
+
+#EXTINF:-1,El canal de las estrellas (TV Abierta)
+http://backup.oneplay.tv/hash/404/10/asd/36.m3u8
+#EXTINF:-1,tlnovelas (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/188.m3u8
+#EXTINF:-1,Space HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/334.m3u8
+#EXTINF:-1,MTV Latino (MÃºsica)
+http://backup.oneplay.tv/hash/404/10/asd/444.m3u8
+#EXTINF:-1,Warner Channel HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/94.m3u8
+#EXTINF:-1,TNT (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/358.m3u8
+#EXTINF:-1,Cinemax (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/354.m3u8
+#EXTINF:-1,OnceTV (TV Abierta)
+http://backup.oneplay.tv/hash/404/10/asd/63.m3u8
+#EXTINF:-1,Cartoon Network (Infantil)
+http://backup.oneplay.tv/hash/404/10/asd/224.m3u8
+#EXTINF:-1,Discovery Channel (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/258.m3u8
+#EXTINF:-1,Disney Channel (Infantil)
+http://backup.oneplay.tv/hash/404/10/asd/210.m3u8
+#EXTINF:-1,nick (Infantil)
+http://backup.oneplay.tv/hash/404/10/asd/218.m3u8
+#EXTINF:-1,Discovery Kids (Infantil)
+http://backup.oneplay.tv/hash/404/10/asd/194.m3u8
+#EXTINF:-1,Nat Geo (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/270.m3u8
+#EXTINF:-1,Fox Sport HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/398.m3u8
+#EXTINF:-1,Disney Junior (Infantil)
+http://backup.oneplay.tv/hash/404/10/asd/202.m3u8
+#EXTINF:-1,Cinecanal (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/352.m3u8
+#EXTINF:-1,Animal Planet (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/261.m3u8
+#EXTINF:-1,FX (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/145.m3u8
+#EXTINF:-1,Disney XD (Infantil)
+http://backup.oneplay.tv/hash/404/10/asd/228.m3u8
+#EXTINF:-1,Gala TV HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/58.m3u8
+#EXTINF:-1,Tooncast (Infantil)
+http://backup.oneplay.tv/hash/404/10/asd/237.m3u8
+#EXTINF:-1,La 1 TVE (TV Abierta)
+http://backup.oneplay.tv/hash/404/10/asd/424.m3u8
+#EXTINF:-1,Universal Channel (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/137.m3u8
+#EXTINF:-1,Lifetime (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/274.m3u8
+#EXTINF:-1,ESPN 2 (Deportes)
+http://backup.oneplay.tv/hash/404/10/asd/412.m3u8
+#EXTINF:-1,ESPN 3 (Deportes)
+http://backup.oneplay.tv/hash/404/10/asd/393.m3u8
+#EXTINF:-1,Fox Sport 2 HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/402.m3u8
+#EXTINF:-1,Golden EDGE (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/364.m3u8
+#EXTINF:-1,Distrito Comedia (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/174.m3u8
+#EXTINF:-1,ESPN (Deportes)
+http://backup.oneplay.tv/hash/404/10/asd/406.m3u8
+#EXTINF:-1,TNT Series (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/158.m3u8
+#EXTINF:-1,Proyecto 40 HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/22.m3u8
+#EXTINF:-1,Cadena tres (TV Abierta)
+http://backup.oneplay.tv/hash/404/10/asd/74.m3u8
+#EXTINF:-1,Tiin (Infantil)
+http://backup.oneplay.tv/hash/404/10/asd/234.m3u8
+#EXTINF:-1,Ritmoson (MÃºsica)
+http://backup.oneplay.tv/hash/404/10/asd/448.m3u8
+#EXTINF:-1,Syfy (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/142.m3u8
+#EXTINF:-1,Fox life (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/170.m3u8
+#EXTINF:-1,E! Entertainment Television (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/134.m3u8
+#EXTINF:-1,Fox1 HD 
+http://backup.oneplay.tv/hash/404/10/asd/298.m3u8
+#EXTINF:-1,FOX Action HD 
+http://backup.oneplay.tv/hash/404/10/asd/302.m3u8
+#EXTINF:-1,FOX Movies (sd) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/308.m3u8
+#EXTINF:-1,Film Zone HD 
+http://backup.oneplay.tv/hash/404/10/asd/322.m3u8
+#EXTINF:-1,A&E 
+http://backup.oneplay.tv/hash/404/10/asd/108.m3u8
+#EXTINF:-1,nick jr (Infantil)
+http://backup.oneplay.tv/hash/404/10/asd/206.m3u8
+#EXTINF:-1,CBeebies (Infantil)
+http://backup.oneplay.tv/hash/404/10/asd/198.m3u8
+#EXTINF:-1,Boomerang (Infantil)
+http://backup.oneplay.tv/hash/404/10/asd/230.m3u8
+#EXTINF:-1,Nat Geo Wild (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/250.m3u8
+#EXTINF:-1,World Discovery HD 
+http://backup.oneplay.tv/hash/404/10/asd/254.m3u8
+#EXTINF:-1,De Pelicula HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/326.m3u8
+#EXTINF:-1,FOX Classics (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/346.m3u8
+#EXTINF:-1,FOX family (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/342.m3u8
+#EXTINF:-1,FOX Cinema (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/338.m3u8
+#EXTINF:-1,Golden (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/361.m3u8
+#EXTINF:-1,AMC (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/366.m3u8
+#EXTINF:-1,Studio Universal (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/374.m3u8
+#EXTINF:-1,TCM (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/382.m3u8
+#EXTINF:-1,VH1 HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/438.m3u8
+#EXTINF:-1,Telehit HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/434.m3u8
+#EXTINF:-1,History Channel HD 
+http://backup.oneplay.tv/hash/404/10/asd/246.m3u8
+#EXTINF:-1,TruTV HD 
+http://backup.oneplay.tv/hash/404/10/asd/114.m3u8
+#EXTINF:-1,BBC Entertainment (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/130.m3u8
+#EXTINF:-1,Comedy Central (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/120.m3u8
+#EXTINF:-1,Casa Club (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/181.m3u8
+#EXTINF:-1,TBS veryfunny (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/178.m3u8
+#EXTINF:-1,Discovery Civilization 
+http://backup.oneplay.tv/hash/404/10/asd/282.m3u8
+#EXTINF:-1,Discovery Science (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/280.m3u8
+#EXTINF:-1,Discovery Turbo (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/288.m3u8
+#EXTINF:-1,HD Teather Discovery (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/242.m3u8
+#EXTINF:-1,Investigation Discovery (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/154.m3u8
+#EXTINF:-1,H&H Discovery (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/266.m3u8
+#EXTINF:-1,Canal 5 HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/50.m3u8
+#EXTINF:-1,Glitz (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/166.m3u8
+#EXTINF:-1,trece HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/10.m3u8
+#EXTINF:-1,Azteca 7 HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/14.m3u8
+#EXTINF:-1,Stv HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/78.m3u8
+#EXTINF:-1,HMx Deportes HD (sd) (Deportes)
+http://backup.oneplay.tv/hash/404/10/asd/471.m3u8
+#EXTINF:-1,ESPN HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/390.m3u8
+#EXTINF:-1,ISAT (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/378.m3u8
+#EXTINF:-1,TNT HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/314.m3u8
+#EXTINF:-1,AMC HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/330.m3u8 
+#EXTINF:-1,Golden HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/318.m3u8
+#EXTINF:-1,FOX Movies HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/306.m3u8
+#EXTINF:-1,nick HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/214.m3u8
+#EXTINF:-1,nicktoons (Infantil)
+http://backup.oneplay.tv/hash/404/10/asd/469.m3u8
+#EXTINF:-1,El gourmet (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/162.m3u8
+#EXTINF:-1,Gala TV (TV Abierta)
+http://backup.oneplay.tv/hash/404/10/asd/60.m3u8
+#EXTINF:-1,Syfy (alterno) (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/143.m3u8
+#EXTINF:-1,BBC Entertainment (alterno) (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/132.m3u8
+#EXTINF:-1,Comedy Central HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/118.m3u8
+#EXTINF:-1,TruTV HD (sd) (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/116.m3u8
+#EXTINF:-1,AXN HD (sd) (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/112.m3u8
+#EXTINF:-1,AXN HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/110.m3u8
+#EXTINF:-1,A&E HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/106.m3u8
+#EXTINF:-1,FX (sd) (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/104.m3u8
+#EXTINF:-1,FX HD (Canales HD 
+http://backup.oneplay.tv/hash/404/10/asd/102.m3u8
+#EXTINF:-1,Universal HD 
+http://backup.oneplay.tv/hash/404/10/asd/98.m3u8
+#EXTINF:-1,Warner Channel (sd) (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/96.m3u8
+#EXTINF:-1,ESPN (alterno) (Deportes)
+http://backup.oneplay.tv/hash/404/10/asd/407.m3u8
+#EXTINF:-1,ESPN 3 HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/394.m3u8
+#EXTINF:-1,ESPN 3 (sd) (Deportes)
+http://backup.oneplay.tv/hash/404/10/asd/395.m3u8
+#EXTINF:-1,Fox Sport 2 (sd) (Deportes)
+http://backup.oneplay.tv/hash/404/10/asd/404.m3u8
+#EXTINF:-1,Universal HD (sd) (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/100.m3u8
+#EXTINF:-1,Film Zone (sd) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/324.m3u8
+#EXTINF:-1,nick HD (sd) (Infantil)
+http://backup.oneplay.tv/hash/404/10/asd/216.m3u8
+#EXTINF:-1,Space (sd) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/336.m3u8
+#EXTINF:-1,Proyecto 40 HD (sd) (TV Abierta)
+http://backup.oneplay.tv/hash/404/10/asd/72.m3u8
+#EXTINF:-1,Nat Geo Wild (sd) (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/251.m3u8
+#EXTINF:-1,History Channel HD (sd) (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/248.m3u8
+#EXTINF:-1,TNT Series (alterno) (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/160.m3u8
+#EXTINF:-1,Bandamax (MÃºsica)
+http://backup.oneplay.tv/hash/404/10/asd/450.m3u8
+#EXTINF:-1,Space (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/372.m3u8
+#EXTINF:-1,Cinemax (sd) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/356.m3u8
+#EXTINF:-1,De Pelicula HD (sd) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/327.m3u8
+#EXTINF:-1,Golden HD (sd) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/320.m3u8
+#EXTINF:-1,TNT HD (sd) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/315.m3u8
+#EXTINF:-1,World Discovery HD (sd) (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/255.m3u8
+#EXTINF:-1,Lifetime (sd) (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/276.m3u8
+#EXTINF:-1,Canal 5 (TV Abierta)
+http://backup.oneplay.tv/hash/404/10/asd/52.m3u8
+#EXTINF:-1,trece (TV Abierta)
+http://backup.oneplay.tv/hash/404/10/asd/12.m3u8
+#EXTINF:-1,FOX Action (sd) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/304.m3u8
+#EXTINF:-1,FOX Classics (alterno) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/348.m3u8
+#EXTINF:-1,FOX family (alterno) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/344.m3u8
+#EXTINF:-1,FOXCinema (alterno) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/340.m3u8
+#EXTINF:-1,Fox1 HD (sd) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/300.m3u8
+#EXTINF:-1,TCM (alterno) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/384.m3u8
+#EXTINF:-1,Studio Universal (alterno) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/375.m3u8
+#EXTINF:-1,H&H Discovery (alterno) (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/267.m3u8
+#EXTINF:-1,HD Teather Discovery (sd) (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/243.m3u8
+#EXTINF:-1,Azcorazon (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/480.m3u8
+#EXTINF:-1,VH1 HD (sd) (MÃºsica)
+http://backup.oneplay.tv/hash/404/10/asd/440.m3u8
+#EXTINF:-1,VH1 Classic (MÃºsica)
+http://backup.oneplay.tv/hash/404/10/asd/477.m3u8
+#EXTINF:-1,MTV N HD (sd) (MÃºsica)
+http://backup.oneplay.tv/hash/404/10/asd/432.m3u8
+#EXTINF:-1,Telehit (sd) (MÃºsica)
+http://backup.oneplay.tv/hash/404/10/asd/436.m3u8
+#EXTINF:-1,MTV Hits (MÃºsica)
+http://backup.oneplay.tv/hash/404/10/asd/476.m3u8
+#EXTINF:-1,nicktoons (calidad mas baja) (Infantil)
+http://backup.oneplay.tv/hash/404/10/asd/467.m3u8
+#EXTINF:-1,HMx Deportes HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/470.m3u8
+#EXTINF:-1,MTV Live HD (sd) (MÃºsica)
+http://backup.oneplay.tv/hash/404/10/asd/431.m3u8
+#EXTINF:-1,MTV Live HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/430.m3u8
+#EXTINF:-1,ESPN HD (sd) (Deportes)
+http://backup.oneplay.tv/hash/404/10/asd/391.m3u8
+#EXTINF:-1,ISAT (alterno) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/379.m3u8
+#EXTINF:-1,Space (alterno) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/370.m3u8
+#EXTINF:-1,TNT (alterno) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/359.m3u8
+#EXTINF:-1,AMC HD (sd) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/332.m3u8
+#EXTINF:-1,AMC (alterno) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/368.m3u8
+#EXTINF:-1,Cinecanal+ HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/310.m3u8
+#EXTINF:-1,Cinecanal+ (sd) (Cine)
+http://backup.oneplay.tv/hash/404/10/asd/312.m3u8
+#EXTINF:-1,World Discovery (alterno) (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/291.m3u8
+#EXTINF:-1,Animal Planet (alterno) (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/263.m3u8
+#EXTINF:-1,Discovery Channel (alterno) (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/260.m3u8
+#EXTINF:-1,nick (alterno) (Infantil)
+http://backup.oneplay.tv/hash/404/10/asd/219.m3u8
+#EXTINF:-1,Discovery Kids (alterno) (Infantil)
+http://backup.oneplay.tv/hash/404/10/asd/196.m3u8
+#EXTINF:-1,TBS veryfunny (alterno) (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/180.m3u8
+#EXTINF:-1,Fox life (alterno) (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/172.m3u8
+#EXTINF:-1,Glitz (alterno) (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/168.m3u8
+#EXTINF:-1,FX (alterno) (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/147.m3u8
+#EXTINF:-1,Pxtv HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/475.m3u8
+#EXTINF:-1,Sony HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/90.m3u8
+#EXTINF:-1,FOX HD (sd) (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/88.m3u8
+#EXTINF:-1,FOX HD (Canales HD (+20mbps))
+http://backup.oneplay.tv/hash/404/10/asd/86.m3u8
+#EXTINF:-1,TeleFormula (alterno) (TV Abierta)
+http://backup.oneplay.tv/hash/404/10/asd/84.m3u8
+#EXTINF:-1,Stv HD (sd) (TV Abierta)
+http://backup.oneplay.tv/hash/404/10/asd/79.m3u8
+#EXTINF:-1,Multimedios TV HD 
+http://backup.oneplay.tv/hash/404/10/asd/478.m3u8
+#EXTINF:-1,Telehit HD 
+http://backup.oneplay.tv/hash/404/10/asd/435.m3u8
+#EXTINF:-1,Fox Sports (Deportes)
+http://backup.oneplay.tv/hash/404/10/asd/399.m3u8
+#EXTINF:-1,El canal de las estrellas HD
+http://backup.oneplay.tv/hash/404/10/asd/34.m3u8
+#EXTINF:-1,Foro TV (TV Abierta)
+http://backup.oneplay.tv/hash/404/10/asd/47.m3u8
+#EXTINF:-1,Fox Sport 2 (sd) (Deportes)
+http://backup.oneplay.tv/hash/404/10/asd/403.m3u8
+#EXTINF:-1,FOX NFL (Deportes)
+http://backup.oneplay.tv/hash/404/10/asd/397.m3u8
+#EXTINF:-1,El gourmet (alterno) (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/164.m3u8
+#EXTINF:-1,Garaje TV (Entretenimiento)
+http://backup.oneplay.tv/hash/404/10/asd/474.m3u8
+#EXTINF:-1,TLC (Mundo y Cultura)
+http://backup.oneplay.tv/hash/404/10/asd/112.m3u8
+#EXTINF:-1,TLC (Mundo y Cultura) 2015
+http://backup.oneplay.tv/hash/404/10/asd/112.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/band_bahia.png" group-title=">>>TV ABERTA<<<", Band PR HD
+http://sintonizarhost.com.br:8081/TarobaCascavelDVR/TarobaCascavelDVR/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/band_bahia.png" group-title=">>>TV ABERTA<<<", Band CE HD
+rtmp://187.18.187.5/livepkgr playpath=nordestv3 swfUrl= live=1 pageUrl=
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/band_bahia.png" group-title=">>>TV ABERTA<<<", Band SP
+rtmp://109.236.88.32/online playpath=bandsp swfUrl=http://livestreamtv.biz/swfs/player.swf live=1 pageUrl=http://livestreamtv.biz/32.php?file=bandsp&width=480&height=380 live=1 conn=S:OK
+
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tv_globo_br.png" group-title="TV Aberta",GLOBO HD   
+rtmp://217.23.12.111/livepkgr/sptvsp
+
